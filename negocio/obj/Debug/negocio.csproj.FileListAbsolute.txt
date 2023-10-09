@@ -1,0 +1,9 @@
+C:\Users\josea\Documents\visual studio\TPFinalNivel2_Hamui\negocio\bin\Debug\negocio.dll
+C:\Users\josea\Documents\visual studio\TPFinalNivel2_Hamui\negocio\bin\Debug\negocio.pdb
+C:\Users\josea\Documents\visual studio\TPFinalNivel2_Hamui\negocio\bin\Debug\dominio.dll
+C:\Users\josea\Documents\visual studio\TPFinalNivel2_Hamui\negocio\bin\Debug\dominio.pdb
+C:\Users\josea\Documents\visual studio\TPFinalNivel2_Hamui\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\josea\Documents\visual studio\TPFinalNivel2_Hamui\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\josea\Documents\visual studio\TPFinalNivel2_Hamui\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\josea\Documents\visual studio\TPFinalNivel2_Hamui\negocio\obj\Debug\negocio.dll
+C:\Users\josea\Documents\visual studio\TPFinalNivel2_Hamui\negocio\obj\Debug\negocio.pdb

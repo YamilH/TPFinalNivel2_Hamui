@@ -1,0 +1,6 @@
+C:\Users\josea\Documents\visual studio\TPFinalNivel2_Hamui\dominio\bin\Debug\dominio.dll
+C:\Users\josea\Documents\visual studio\TPFinalNivel2_Hamui\dominio\bin\Debug\dominio.pdb
+C:\Users\josea\Documents\visual studio\TPFinalNivel2_Hamui\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\josea\Documents\visual studio\TPFinalNivel2_Hamui\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\josea\Documents\visual studio\TPFinalNivel2_Hamui\dominio\obj\Debug\dominio.dll
+C:\Users\josea\Documents\visual studio\TPFinalNivel2_Hamui\dominio\obj\Debug\dominio.pdb
